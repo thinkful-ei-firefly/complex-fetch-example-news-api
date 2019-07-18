@@ -1,6 +1,7 @@
 'use strict';
 
-const apiKey = 'your_api_key_here';
+// replace this 👇 with your API key
+const apiKey = 'fa54953a641b4660b4b294dcd93c176c';
 const searchURL = 'https://newsapi.org/v2/everything';
 
 /**
